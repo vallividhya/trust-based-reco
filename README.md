@@ -16,3 +16,7 @@ trust-based-reco
 2. Setting mongodb in windows
 
         http://www.mkyong.com/mongodb/how-to-install-mongodb-on-windows/
+        
+        
+3. Used Yelp API to get details of particular cuisine. Make necessary changes to consumer key and other details in file YelpApi2.java
+        
