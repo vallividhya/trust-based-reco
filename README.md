@@ -13,3 +13,6 @@ trust-based-reco
   
   
   
+2. Setting mongodb in windows
+
+        http://www.mkyong.com/mongodb/how-to-install-mongodb-on-windows/
